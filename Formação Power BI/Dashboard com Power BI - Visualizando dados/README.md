@@ -1,7 +1,6 @@
 # Dashboard with Power BI: Viewing Data / Painel com Power BI: Visualização de dados
 
-en-US
-## Description
+###### en-US
 ### With an estimated workload of 8 hours starting on 2021-20-11 and completed on 2021-11-22 with 47/47 activities completed.
 ### In this course I learned
 * Chart within Power BI
@@ -16,8 +15,7 @@ en-US
 * time series
 * Categories and location
 
-pt-BR
-## Descrição
+###### pt-BR
 ### Com carga horária estimada em 8 horas com início em 20/11/2021 e concluído em 22/11/2021 with 47/47 atividades concluídas.
 
 ### Neste curso eu aprendi
