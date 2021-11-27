@@ -1,8 +1,6 @@
-#Painel com Power BI: Visualização de dados
+# Painel com Power BI: Visualização de dados
 
-Certificate [https://cursos.alura.com.br/certificate/wesley-comput/power-bi-visualizando-dados]
-
-##Neste curso eu aprendi
+## Neste curso eu aprendi
 * Gráfico dentro do Power BI
 * Importar visuais externos
 * Visualização de dados
@@ -15,7 +13,7 @@ Certificate [https://cursos.alura.com.br/certificate/wesley-comput/power-bi-visu
 * Séries temporais
 * Categorias e localização
 
-##In this course I learned
+## In this course I learned
 * Chart within Power BI
 * Import external visuals
 * Data visualization
@@ -28,4 +26,5 @@ Certificate [https://cursos.alura.com.br/certificate/wesley-comput/power-bi-visu
 * time series
 * Categories and location
 
+Certificate [https://cursos.alura.com.br/certificate/wesley-comput/power-bi-visualizando-dados]
 
