@@ -1,6 +1,7 @@
 # Dashboard with Power BI: Viewing Data / Painel com Power BI: Visualização de dados
 
 ## In this course I learned
+
 * Chart within Power BI
 * Import external visuals
 * Data visualization
@@ -14,6 +15,7 @@
 * Categories and location
 
 ## Neste curso eu aprendi
+
 * Gráfico dentro do Power BI
 * Importar visuais externos
 * Visualização de dados
@@ -26,5 +28,5 @@
 * Séries temporais
 * Categorias e localização
 
-[Certificate] (https://cursos.alura.com.br/certificate/wesley-comput/power-bi-visualizando-dados)
+[Certificate](https://cursos.alura.com.br/certificate/wesley-comput/power-bi-visualizando-dados){:target="_blank"}
 
