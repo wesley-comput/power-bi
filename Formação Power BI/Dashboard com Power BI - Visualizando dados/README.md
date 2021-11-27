@@ -1,17 +1,4 @@
-# Painel com Power BI: Visualização de dados
-
-## Neste curso eu aprendi
-* Gráfico dentro do Power BI
-* Importar visuais externos
-* Visualização de dados
-* Trabalhar com séries temporais
-* Trabalhar com mapas e conceitos de latitude e longitude
-* Construir um painel com recursos para navegação entre as páginas
-* Resumindo dados
-* Metas e atualizados de dados
-* Tabelas
-* Séries temporais
-* Categorias e localização
+# Dashboard with Power BI: Viewing Data / Painel com Power BI: Visualização de dados
 
 ## In this course I learned
 * Chart within Power BI
@@ -26,5 +13,18 @@
 * time series
 * Categories and location
 
-Certificate [https://cursos.alura.com.br/certificate/wesley-comput/power-bi-visualizando-dados]
+## Neste curso eu aprendi
+* Gráfico dentro do Power BI
+* Importar visuais externos
+* Visualização de dados
+* Trabalhar com séries temporais
+* Trabalhar com mapas e conceitos de latitude e longitude
+* Construir um painel com recursos para navegação entre as páginas
+* Resumindo dados
+* Metas e atualizados de dados
+* Tabelas
+* Séries temporais
+* Categorias e localização
+
+[Certificate] (https://cursos.alura.com.br/certificate/wesley-comput/power-bi-visualizando-dados)
 
