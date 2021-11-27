@@ -28,5 +28,6 @@
 * Séries temporais
 * Categorias e localização
 
-[Certificate](https://cursos.alura.com.br/certificate/wesley-comput/power-bi-visualizando-dados){:target="_blank"}
-
+[Click here to see the certificate](https://cursos.alura.com.br/certificate/wesley-comput/power-bi-visualizando-dados){:target="_blank"}
+[Click here to see the certificate](https://cursos.alura.com.br/certificate/wesley-comput/power-bi-visualizando-dados?target=_blank)
+[![Click here](https://cdn4.iconfinder.com/data/icons/business-1221/24/Certificate-64.png)](https://cursos.alura.com.br/certificate/wesley-comput/power-bi-visualizando-dados)
