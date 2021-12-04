@@ -1,7 +1,7 @@
 # Dashboard with Power BI: Viewing Data / Painel com Power BI: Visualização de dados
 
 ###### en-US
-### With an estimated workload of 8 hours starting on 2021-20-11 and completed on 2021-11-22 with 47/47 activities completed.
+### With an estimated workload of 8 hours started on 2021-20-11 and completed on 2021-11-22 with 47/47 activities completed.
 ### In this course I learned
 * Chart within Power BI
 * Import external visuals
